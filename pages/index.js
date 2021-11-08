@@ -24,7 +24,7 @@ export default function Home() {
             <p> Find in-depth information about the Lightning Address protocol. </p>{' '}
           </a>{' '}
           <a href="https://telegra.ph/lnurl-a-protocol-for-seamless-interaction-between-services-and-Lightning-wallets-08-19" className={styles.card}>
-            <h2> LNURL RFC</h2>{' '}
+            <h2> What's LNURL?</h2>{' '}
             <p> Learn about the LNURL protocol and how it is used in self-hosted and wallet applications. </p>{' '}
           </a>{' '}
         </div>{' '}

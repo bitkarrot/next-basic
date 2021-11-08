@@ -20,12 +20,12 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a href="https://lightningaddress.com/" className={styles.card}>
-            <h2> What's a Lightning Address? </h2>{' '}
+            <h2> What&apos;s a Lightning Address? </h2>{' '}
             <p> Find in-depth information about the Lightning Address protocol. </p>{' '}
           </a>{' '}
           <a href="https://telegra.ph/lnurl-a-protocol-for-seamless-interaction-between-services-and-Lightning-wallets-08-19" className={styles.card}>
-            <h2> What's LNURL?</h2>{' '}
-            <p> Learn about the LNURL protocol and how it is used in self-hosted and wallet applications. </p>{' '}
+            <h2> What is the LNURL protocol?</h2>{' '}
+            <p> Learn about the LNURL and how its used in self-hosted and wallet applications. </p>{' '}
           </a>{' '}
         </div>{' '}
       </main>{' '}

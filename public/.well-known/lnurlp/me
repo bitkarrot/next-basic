@@ -3,7 +3,7 @@
   "commentAllowed": 100, 
   "maxSendable": 10000000, 
   "metadata": "[[\"text/plain\", \"lnurlp on lnbits\"]]", 
-  "minSendable": 100000, 
+  "minSendable": 10000, 
   "tag": "payRequest"
 }
 

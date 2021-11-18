@@ -4,7 +4,6 @@
   "maxSendable": 10000000, 
   "metadata": "[[\"text/plain\", \"bitkarrot on lnbits\"]]", 
   "minSendable": 10000, 
-  commentAllowed: 100, 
   "tag": "payRequest"
 }
 

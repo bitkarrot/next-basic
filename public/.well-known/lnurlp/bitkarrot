@@ -1,0 +1,9 @@
+{
+  "callback": "https://fast.laisee.org/lnurlp/api/v1/lnurl/cb/200",
+  "commentAllowed": 0, 
+  "maxSendable": 100000000, 
+  "metadata": "[[\"text/plain\", \"bitkarrot@lnaddy\"]]", 
+  "minSendable": 10000, 
+  "tag": "payRequest"
+}
+

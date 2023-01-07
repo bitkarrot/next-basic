@@ -1,5 +1,5 @@
 {
-  "callback": "https://fast.laisee.org/lnurlp/api/v1/lnurl/cb/24",
+  "callback": "https://bk-lnbits.fly.dev/lnurlp/api/v1/lnurl/cb/1",
   "commentAllowed": 0, 
   "maxSendable": 100000000, 
   "metadata": "[[\"text/plain\", \"me@lnaddy\"]]", 

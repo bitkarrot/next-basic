@@ -2,7 +2,7 @@
   "callback": "https://fast.laisee.org/lnurlp/api/v1/lnurl/cb/24",
   "commentAllowed": 0, 
   "maxSendable": 100000000, 
-  "metadata": "[[\"text/plain\", \"me@lnaddy\"]]", 
+  "metadata": "[[\"text/plain\", \"me@lnaddy.com\"]]", 
   "minSendable": 1000000, 
   "tag": "payRequest"
 }

@@ -1,9 +1,8 @@
 {
-  "callback": "https://fast.laisee.org/lnurlp/api/v1/lnurl/cb/24",
-  "commentAllowed": 0, 
+  "callback": "https://bk-lnbits.fly.dev/lnurlp/api/v1/lnurl/cb/aRG7Qu",
+  "commentAllowed": 100, 
   "maxSendable": 100000000, 
-  "metadata": "[[\"text/plain\", \"me@lnaddy.com\"]]", 
+  "metadata": "[[\"text/plain\", \"one@lnaddy\"]]", 
   "minSendable": 100000, 
   "tag": "payRequest"
 }
-

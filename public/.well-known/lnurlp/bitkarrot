@@ -3,7 +3,7 @@
   "commentAllowed": 100, 
   "maxSendable": 100000000, 
   "metadata": "[[\"text/plain\", \"bitkarrot@lnaddy\"]]", 
-  "minSendable": 100000, 
+  "minSendable": 10000, 
   "tag": "payRequest"
 }
 

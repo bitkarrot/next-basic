@@ -1,9 +1,11 @@
 {
-  "callback": "https://fast.laisee.org/lnurlp/api/v1/lnurl/cb/200",
-  "commentAllowed": 0, 
+  "callback": "https://bk-lnbits.fly.dev/lnurlp/api/v1/lnurl/cb/LBYLLc",
+  "commentAllowed": 100, 
   "maxSendable": 100000000, 
   "metadata": "[[\"text/plain\", \"bitkarrot@lnaddy\"]]", 
-  "minSendable": 10000, 
+  "minSendable": 100000, 
   "tag": "payRequest"
 }
+
+
 

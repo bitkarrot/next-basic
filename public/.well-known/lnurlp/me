@@ -2,7 +2,7 @@
   "callback": "https://bk-lnbits.fly.dev/lnurlp/api/v1/lnurl/cb/aRG7Qu",
   "commentAllowed": 100, 
   "maxSendable": 100000000, 
-  "metadata": "[[\"text/plain\", \"one@lnaddy\"]]", 
+  "metadata": "[[\"text/plain\", \"me@lnaddy\"]]", 
   "minSendable": 100000, 
   "tag": "payRequest"
 }
